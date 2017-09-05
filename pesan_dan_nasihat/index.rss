@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>pesan dan nasihat</title>
+<link>http://gntrwiki.azzamsa.com/pesan_dan_nasihat/</link>
+<atom:link href="http://gntrwiki.azzamsa.com/pesan_dan_nasihat/index.rss" rel="self" type="application/rss+xml"/>
+
+<description>gntrwiki</description>
+<generator>ikiwiki</generator>
+<pubDate>Wed, 19 Jul 2017 05:51:29 +0700</pubDate>
+<item>
+	<title>Penutupan ujian akhir tahun</title>
+
+	<guid isPermaLink="false">http://gntrwiki.azzamsa.com/pesan_dan_nasihat/entry/penutupan_ujian_akhir_tahun/</guid>
+
+	<link>http://gntrwiki.azzamsa.com/pesan_dan_nasihat/entry/penutupan_ujian_akhir_tahun/</link>
+
+
+	<pubDate>Wed, 19 Jul 2017 05:51:29 +0700</pubDate>
+	<dcterms:modified>2017-07-18T22:51:29Z</dcterms:modified>
+
+
+	<description>&lt;h1&gt;Foo&lt;/h1&gt;
+
+&lt;p&gt;bar&lt;/p&gt;
+</description>
+
+
+</item>
+
+</channel>
+</rss>

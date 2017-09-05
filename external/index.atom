@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>external</title>
+<link href="http://gntrwiki.azzamsa.com/external/"/>
+<link href="http://gntrwiki.azzamsa.com/external/index.atom" rel="self" type="application/atom+xml"/>
+<author>
+
+<name>gntrwiki</name>
+
+</author>
+
+
+
+
+<id>http://gntrwiki.azzamsa.com/external/</id>
+
+<subtitle type="html">gntrwiki</subtitle>
+<generator uri="http://ikiwiki.info/">ikiwiki</generator>
+<updated>2017-07-18T22:57:43Z</updated>
+<entry>
+	<title>bagaimana kendaraan ke gontor</title>
+
+	<id>http://gntrwiki.azzamsa.com/external/entry/bagaimana_kendaraan_ke_gontor/</id>
+
+	<link href="http://gntrwiki.azzamsa.com/external/entry/bagaimana_kendaraan_ke_gontor/"/>
+
+
+
+
+
+	<updated>2017-07-18T22:57:43Z</updated>
+	<published>2017-07-18T22:57:43Z</published>
+
+
+	<content type="html" xml:lang="en">
+	&lt;h1&gt;kendaraan&lt;/h1&gt;
+
+	</content>
+
+
+
+</entry>
+
+</feed>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>pesan dan nasihat</title>
+<link href="http://gntrwiki.azzamsa.com/pesan_dan_nasihat/"/>
+<link href="http://gntrwiki.azzamsa.com/pesan_dan_nasihat/index.atom" rel="self" type="application/atom+xml"/>
+<author>
+
+<name>gntrwiki</name>
+
+</author>
+
+
+
+
+<id>http://gntrwiki.azzamsa.com/pesan_dan_nasihat/</id>
+
+<subtitle type="html">gntrwiki</subtitle>
+<generator uri="http://ikiwiki.info/">ikiwiki</generator>
+<updated>2017-07-18T22:51:29Z</updated>
+<entry>
+	<title>Penutupan ujian akhir tahun</title>
+
+	<id>http://gntrwiki.azzamsa.com/pesan_dan_nasihat/entry/penutupan_ujian_akhir_tahun/</id>
+
+	<link href="http://gntrwiki.azzamsa.com/pesan_dan_nasihat/entry/penutupan_ujian_akhir_tahun/"/>
+
+
+
+
+
+	<updated>2017-07-18T22:51:29Z</updated>
+	<published>2017-07-18T22:51:29Z</published>
+
+
+	<content type="html" xml:lang="en">
+	&lt;h1&gt;Foo&lt;/h1&gt;
+
+&lt;p&gt;bar&lt;/p&gt;
+
+	</content>
+
+
+
+</entry>
+
+</feed>

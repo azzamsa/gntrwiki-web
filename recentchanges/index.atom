@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>RecentChanges</title>
+<link href="http://gntrwiki.azzamsa.com/recentchanges/"/>
+<link href="http://gntrwiki.azzamsa.com/recentchanges/index.atom" rel="self" type="application/atom+xml"/>
+<author>
+
+<name>gntrwiki</name>
+
+</author>
+
+
+
+
+<id>http://gntrwiki.azzamsa.com/recentchanges/</id>
+
+<subtitle type="html">gntrwiki</subtitle>
+<generator uri="http://ikiwiki.info/">ikiwiki</generator>
+<updated>2017-09-05T23:25:27Z</updated>
+<entry>
+	<title>change to IKPM Quotes README Tentang_kami alumni etiquette external external/entry/bagaimana_kendaraan_ke_gontor falsafah_kehidupan index  on gntrwiki</title>
+
+	<id>http://gntrwiki.azzamsa.com/recentchanges/change_5b63e652228c7f17e2c72fb555fdfcbfc8daf135/</id>
+
+	<link href="http://gntrwiki.azzamsa.com/recentchanges/#change-5b63e652228c7f17e2c72fb555fdfcbfc8daf135"/>
+
+	<author><name>oktinastuzi</name></author>
+
+
+
+
+
+	<updated>2017-09-05T23:25:27Z</updated>
+	<published>2017-09-05T23:25:27Z</published>
+
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+
+
+&lt;div id=&quot;change-5b63e652228c7f17e2c72fb555fdfcbfc8daf135&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+&lt;a href=&quot;http://gntrwiki.azzamsa.com/ikiwiki.cgi?do=goto&amp;amp;page=IKPM&quot; rel=&quot;nofollow&quot;&gt;IKPM&lt;/a&gt;
+
+&lt;a href=&quot;http://gntrwiki.azzamsa.com/ikiwiki.cgi?do=goto&amp;amp;page=Quotes&quot; rel=&quot;nofollow&quot;&gt;Quotes&lt;/a&gt;
+
+&lt;a href=&quot;http://gntrwiki.azzamsa.com/ikiwiki.cgi?do=goto&amp;amp;page=README&quot; rel=&quot;nofollow&quot;&gt;README&lt;/a&gt;
+
+&lt;a href=&quot;http://gntrwiki.azzamsa.com/ikiwiki.cgi?do=goto&amp;amp;page=Tentang_kami&quot; rel=&quot;nofollow&quot;&gt;Tentang kami&lt;/a&gt;
+
+&lt;a href=&quot;http://gntrwiki.azzamsa.com/ikiwiki.cgi?do=goto&amp;amp;page=alumni&quot; rel=&quot;nofollow&quot;&gt;alumni&lt;/a&gt;
+
+&lt;a href=&quot;http://gntrwiki.azzamsa.com/ikiwiki.cgi?do=goto&amp;amp;page=etiquette&quot; rel=&quot;nofollow&quot;&gt;etiquette&lt;/a&gt;
+
+&lt;a href=&quot;http://gntrwiki.azzamsa.com/ikiwiki.cgi?do=goto&amp;amp;page=external&quot; rel=&quot;nofollow&quot;&gt;external&lt;/a&gt;
+
+&lt;a href=&quot;http://gntrwiki.azzamsa.com/ikiwiki.cgi?do=goto&amp;amp;page=external%2Fentry%2Fbagaimana_kendaraan_ke_gontor&quot; rel=&quot;nofollow&quot;&gt;external/entry/bagaimana kendaraan ke gontor&lt;/a&gt;
+
+&lt;a href=&quot;http://gntrwiki.azzamsa.com/ikiwiki.cgi?do=goto&amp;amp;page=falsafah_kehidupan&quot; rel=&quot;nofollow&quot;&gt;falsafah kehidupan&lt;/a&gt;
+
+&lt;a href=&quot;http://gntrwiki.azzamsa.com/ikiwiki.cgi?do=goto&amp;amp;page=index&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+...
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://gntrwiki.azzamsa.com/ikiwiki.cgi?do=goto&amp;amp;page=oktinastuzi&quot; rel=&quot;nofollow&quot;&gt;oktinastuzi&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;06:25:27 AM 09/06/2017&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://gntrwiki.azzamsa.com/ikiwiki.cgi?do=revert&amp;amp;rev=5b63e652228c7f17e2c72fb555fdfcbfc8daf135&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://gntrwiki.azzamsa.com/wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+firs commit&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+
+	</content>
+
+
+
+</entry>
+<entry>
+	<title>change to .gitignore on gntrwiki</title>
+
+	<id>http://gntrwiki.azzamsa.com/recentchanges/change_197fcf00034d408f83481b9d740667455acc8b49/</id>
+
+	<link href="http://gntrwiki.azzamsa.com/recentchanges/#change-197fcf00034d408f83481b9d740667455acc8b49"/>
+
+	<author><name>oktinastuzi</name></author>
+
+
+
+
+
+	<updated>2017-09-05T22:43:13Z</updated>
+	<published>2017-09-05T22:43:13Z</published>
+
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+
+
+&lt;div id=&quot;change-197fcf00034d408f83481b9d740667455acc8b49&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+&lt;a href=&quot;http://gntrwiki.azzamsa.com/ikiwiki.cgi?do=goto&amp;amp;page=.gitignore&quot; rel=&quot;nofollow&quot;&gt;.gitignore&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://gntrwiki.azzamsa.com/ikiwiki.cgi?do=goto&amp;amp;page=oktinastuzi&quot; rel=&quot;nofollow&quot;&gt;oktinastuzi&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;05:43:13 AM 09/06/2017&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://gntrwiki.azzamsa.com/ikiwiki.cgi?do=revert&amp;amp;rev=197fcf00034d408f83481b9d740667455acc8b49&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://gntrwiki.azzamsa.com/wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+initial commit&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+
+	</content>
+
+
+
+</entry>
+
+</feed>

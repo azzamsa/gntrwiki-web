@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>external</title>
+<link>http://gntrwiki.azzamsa.com/external/</link>
+<atom:link href="http://gntrwiki.azzamsa.com/external/index.rss" rel="self" type="application/rss+xml"/>
+
+<description>gntrwiki</description>
+<generator>ikiwiki</generator>
+<pubDate>Wed, 19 Jul 2017 05:57:43 +0700</pubDate>
+<item>
+	<title>bagaimana kendaraan ke gontor</title>
+
+	<guid isPermaLink="false">http://gntrwiki.azzamsa.com/external/entry/bagaimana_kendaraan_ke_gontor/</guid>
+
+	<link>http://gntrwiki.azzamsa.com/external/entry/bagaimana_kendaraan_ke_gontor/</link>
+
+
+	<pubDate>Wed, 19 Jul 2017 05:57:43 +0700</pubDate>
+	<dcterms:modified>2017-07-18T22:57:43Z</dcterms:modified>
+
+
+	<description>&lt;h1&gt;kendaraan&lt;/h1&gt;
+</description>
+
+
+</item>
+
+</channel>
+</rss>
